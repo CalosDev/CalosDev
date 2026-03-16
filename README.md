@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos Feliciano
 
-<!--
-**CalosDev/CalosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software  
+🎓 Estudiante de Desarrollo de Software en ITLA  
+📍 República Dominicana  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- SQL Server
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+
+### PrestaFácil RD
+Sistema web para gestión de préstamos.
+
+🔗 https://github.com/CalosDev/PrestaF-cil-RD
+
+### AquiTaDo
+Aplicación para gestión y control de deudas.
+
+🔗 https://github.com/CalosDev/AquiTaDo
+
+## 📫 Contacto
+📧 felicianocarlitos2@gmail.com
