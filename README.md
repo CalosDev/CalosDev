@@ -20,7 +20,7 @@ Sistema web para gestión de préstamos.
 🔗 https://github.com/CalosDev/PrestaF-cil-RD
 
 ### AquiTaDo
-Aplicación para gestión y control de deudas.
+Aplicación para gestión de negocios
 
 🔗 https://github.com/CalosDev/AquiTaDo
 
